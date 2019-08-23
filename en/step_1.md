@@ -1,6 +1,6 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/memory-scratch2).
+This project has been prepared for **Scratch 3**.
 
 --- /no-print ---
 
@@ -31,6 +31,7 @@ title: What you will learn
 - How to add sound to your Scratch project
 - How to create and use lists to store data
 - How to create and use custom blocks for repeating code
+- Understand the skills which are developed towards a career involving Computing
 
 --- /collapse ---
 
