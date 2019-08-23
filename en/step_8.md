@@ -1,8 +1,8 @@
 ## What next?
 
-Try out the next project, Dodgeball, where you will make a game in which you have to avoid balls while moving from platform to platform.
+Try out the next project, 'Dodgeball', where you will make a game in which you have to avoid balls while moving from platform to platform.
 
-You will find this project on the module pathway.
+You will find this project in the module pathway.
 
 --- no-print ---
 
