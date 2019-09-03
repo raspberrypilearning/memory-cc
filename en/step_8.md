@@ -20,3 +20,5 @@ Click the green flag to start, and then use the arrow keys to move and the <kbd>
 ![dodgeball game being played](images/dodgeball-showcase.png)
 
 --- /print-only ---
+
+![progress bar](images/s2-1.png)
