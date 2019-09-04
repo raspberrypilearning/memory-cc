@@ -22,3 +22,8 @@ Click the green flag to start, and then use the arrow keys to move and the <kbd>
 --- /print-only ---
 
 ![progress bar](images/s2-1.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
