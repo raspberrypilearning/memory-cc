@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Try out the next project, 'Dodgeball', where you will make a game in which you have to avoid balls while moving from platform to platform.
 
@@ -20,3 +20,10 @@ Click the green flag to start, and then use the arrow keys to move and the <kbd>
 ![dodgeball game being played](images/dodgeball-showcase.png)
 
 --- /print-only ---
+
+![progress bar](images/s2-1.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
