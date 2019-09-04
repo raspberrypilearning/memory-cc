@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Try out the next project, 'Dodgeball', where you will make a game in which you have to avoid balls while moving from platform to platform.
 
